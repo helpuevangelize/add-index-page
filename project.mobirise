@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Williamsburg Congregation",
+    "name": "Leighigh Valley Church of Christ",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -81,7 +81,7 @@
             "overlayOpacity": "0.4"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Peninsula Church of Christ<br>20 Evangelism Insights...",
+          "title": "Lehigh Valley Church of Christ<br>20 Evangelism Insights...",
           "text": "Increase Traffic, Increase Bible Studies, God Gives The Increase",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
@@ -217,8 +217,8 @@
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peninsula-church-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/peninsula-church-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/lehigh-valley-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lehigh-valley-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "playVideo": false,
@@ -231,8 +231,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/peninsula-church1-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/peninsula-church1-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/lehigh-valley-recommendations-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lehigh-valley-recommendations-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "3. Website Suggestions<br><br>",
@@ -255,8 +255,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/peninppc-report-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/peninppc-report-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/seo-audit-leigh-valley-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/seo-audit-leigh-valley-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "5. SEO Report<br>Website not optimize to be found by search engines. Request full report.<br><br>",
@@ -272,15 +272,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "8. Hoosiers By the Numbers",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/searchterms-peninsula-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/searchterms-peninsula-1920x1080-800x481.png",
+                "image": "@PROJECT_PATH@/assets/images/lehigh-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lehigh-1920x1080-800x450.png",
                 "alt": "",
                 "title": "",
                 "caption": "6. Your Website Traffic&nbsp;<br>(Not Available)",
@@ -295,7 +295,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/website-design-co-web-design-company-monthly-website-design-packages-in-sa-free-750x442-750x442.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "7. Landing Page Sample",
+                "caption": "7. Landing Page Sample<br>Landing pages provide quick solutions for visitors",
                 "active": false
               },
               {
@@ -307,8 +307,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/reporting2-1-900x668-575x324.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "9. SMM Social Media Report<br>(Not found on social Media)",
-                "active": true
+                "caption": "9. SMM Social Media Report<br>(356 Likes)",
+                "active": false
               }
             ]
           },
@@ -338,7 +338,8 @@
         {
           "_styles": {
             "H3": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -360,14 +361,14 @@
             "overlayOpacity": 0.75
           },
           "title": "10. Your stats",
-          "text": "The first percentage represents the number of members at the congregation. &nbsp;If you divide the number of members (Approx 130) by the number of people within a 30 miles radius of the building (1.5 million) you get the percentage of people who are Christians attending your congregation. &nbsp;This is a rough estimate, there may be other congregations in the area as well. &nbsp;We'll help you increase this percentage!",
+          "text": "The first percentage represents the number of members at the congregation. &nbsp;If you divide the number of members (Approx 80) by the number of people within a 30 miles radius of the building (1.7 million) you get the percentage of people who are Christians attending your congregation. &nbsp;This is a rough estimate, there may be other congregations in the area as well. &nbsp;We'll help you increase this percentage!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "subtitle1": "Views",
           "subtitle2": "Percent",
           "subtitle3": "website visitors&nbsp;<br>from Ads",
-          "subtitle4": "Bible studies&nbsp;<br>from website",
+          "subtitle4": "&nbsp;Bible studies&nbsp;<br>from website &nbsp; (not Sure) &nbsp; &nbsp;",
           "number1": "69809",
-          "number2": ".000086",
+          "number2": ".000047",
           "number3": "0",
           "number4": "0",
           "alias": "colorm/components",
@@ -519,7 +520,7 @@
               {
                 "active": false,
                 "text": "<p>600 Million Pentecostal and charismatic, 25% of all so called Christians.</p><p><br></p>",
-                "authorName": "Pentalcostal",
+                "authorName": "Pentecostal",
                 "authorBio": "USER",
                 "media": {
                   "image": {
@@ -665,7 +666,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 30,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -695,7 +696,7 @@
           },
           "title1": "&nbsp;There are over 120+ directory sites",
           "subtitle1": "can your congregation be found in<br> the Online directories?",
-          "caption1": "Not only is it important to come up on the directory sites, but it's important to make sure that all of the information for Cloverland church of Christ to be accurate on all sites.&nbsp;",
+          "caption1": "Not only is it important to come up on the directory sites, but it's important to make sure that all of the information for church of Christ to be accurate on all sites.&nbsp;",
           "number1": "01",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.yelp.com/search?find_loc=Hampton,+VA&amp;start=0&amp;cflt=churches\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">see results</a>",
           "alias": "colorm/components",
@@ -1042,7 +1043,7 @@
         },
         {
           "_params": {
-            "progress1": "12",
+            "progress1": "9",
             "progress2": "95",
             "progress3": "59",
             "progress4": "6",
@@ -1078,7 +1079,7 @@
           "caption3": "Many young people do not go to church. &nbsp;They do not see serving God as important. &nbsp;As members of the Lord's church, we need to make every effort to reach these individuals with the gospel of Christ. &nbsp;This is 59%!",
           "title4": "20.number of websites that are optimized for bible study leads",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "This is my guess...for what it is worth. &nbsp;I believe the majority of websites in the brother hood are not being used to generate Bible studies on a daily basis. &nbsp;Soouls.com can help you with that!! 6% maybe???<br>",
+          "caption4": "This is my guest...for what it is worth. &nbsp;I believe the majority of websites in the brother hood are not being used to generate Bible studies on a daily basis. &nbsp;Soouls.com can help you with that!! 6% maybe???<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1296,7 +1297,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SOOULS.COM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">20 Insights</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1d\">Intro Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-3k\">Go to Reports<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Go to Bot</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denominations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">More Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form2-3h\">Get Started Today</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#intro2-1i\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SOOULS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">20 Insights</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1d\">Intro Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-3k\">Go to Reports<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Go to Bot</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denominations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">More Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form2-3h\">Get Started Today</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#intro2-1i\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1315,7 +1316,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOOULS.COM</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOOULS</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -1348,7 +1349,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Our in house team..",
-          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "subtitle": "",
           "person1": "Grady Jones",
           "person2": "Britney&nbsp;",
           "person3": "Brother McCoy White",
